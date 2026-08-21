@@ -1,0 +1,85 @@
+{
+  "pipeline": [
+    { "en": "Cloning & Expression", "ko": "클로닝 및 발현" },
+    { "en": "Purification", "ko": "정제" },
+    { "en": "Crystallization", "ko": "결정화" },
+    { "en": "X-ray Diffraction", "ko": "X선 회절" },
+    { "en": "Structure Analysis", "ko": "구조 분석" },
+    { "en": "Biochemical Analysis", "ko": "생화학 분석" }
+  ],
+  "findings": [
+    {
+      "ko": "<strong>P105V/P105I</strong> 변이에서 효소 활성이 저하되어, C. glutamicum 계열 고유 잔기의 기능적 의미를 확인했습니다.",
+      "en": "<strong>P105V/P105I</strong> mutations reduced enzymatic activity, revealing the functional role of a residue unique to the C. glutamicum lineage."
+    },
+    {
+      "ko": "활성 부위 <strong>S103T</strong> 변이에서 약 10% 활성 증가 경향을 확인했습니다.",
+      "en": "The active-site <strong>S103T</strong> mutation showed roughly a 10% increase in activity."
+    },
+    {
+      "ko": "구조 및 기능 해석 결과를 J. Microbiol. Biotechnol. (2023)에 제1저자로 발표했습니다.",
+      "en": "Published the structural and functional findings as first author in J. Microbiol. Biotechnol. (2023)."
+    }
+  ],
+  "publications": [
+    {
+      "bracket": "J3",
+      "year": "2025",
+      "first": false,
+      "title": "Exploring the Anti-Inflammatory Activity of the Heat-Processed Gynostemma pentaphyllum Extract (Actiponin®) in RAW264.7 Cells and Carrageenan-Induced Rat Models",
+      "authors": "Lee SA, Moon BR, <strong>Lee CH</strong>, Sun Hee Lee, Eunju Do, Do Kyung Kim, Tae-Lin Huh, Chan Sung Kim",
+      "venue": "International Journal of Molecular Sciences, 26(18):9145",
+      "doi": "https://doi.org/10.3390/ijms26189145",
+      "tag": "tag-a",
+      "pdb": []
+    },
+    {
+      "bracket": "J2",
+      "year": "2025",
+      "first": false,
+      "title": "Inhibitory Effects of Heat-Processed Gynostemma pentaphyllum Extract (Actiponin®) and Its Components on Cartilage Breakdown in Osteoarthritis",
+      "authors": "Lee SA, <strong>Lee CH</strong>, Lee SH, Do E, Kim DK, Huh TL, Kim CS",
+      "venue": "International Journal of Molecular Sciences, 26(4):1728",
+      "doi": "https://doi.org/10.3390/ijms26041728",
+      "tag": "tag-b",
+      "pdb": []
+    },
+    {
+      "bracket": "J1",
+      "year": "2023",
+      "first": true,
+      "title": "Structural and Biochemical Analysis of 3-Dehydroquinate Dehydratase from Corynebacterium glutamicum",
+      "authors": "<strong>Lee CH</strong>, Kim S, Seo H, Kim KJ",
+      "venue": "Journal of Microbiology and Biotechnology, 33(12):1595",
+      "doi": "https://doi.org/10.4014/jmb.2305.05018",
+      "tag": "tag-c",
+      "pdb": ["8IDR", "8IDU"]
+    }
+  ],
+  "skills": [
+    {
+      "ko": "단백질 과학", "en": "Protein Science",
+      "items": ["Gene Cloning", "IPTG Expression", "Ni-NTA / FPLC", "Crystallization", "X-ray (HKL2000)", "MOLREP / REFMAC5", "WinCoot / PyMOL"]
+    },
+    {
+      "ko": "세포·분자 분석", "en": "Cell & Molecular Assays",
+      "items": ["Western Blot", "ELISA", "RT-qPCR", "Zymography", "HPLC", "Cell Viability"]
+    },
+    {
+      "ko": "구조 기반 도구", "en": "Structural Tools",
+      "items": ["Site-directed Mutagenesis", "UV-spectrophotometer Kinetics", "AutoDock", "Structure Alignment"]
+    }
+  ],
+  "projects": [
+    { "name": "tm-widget", "ko": "macOS용 Electron 토큰/사용량 위젯. 기존 Python 위젯을 대체.", "en": "Electron token/usage widget for macOS, replacing an earlier Python version.", "tech": "Electron · Node.js" },
+    { "name": "ai-token-monitor", "ko": "AI API 토큰 사용량을 추적하는 모니터링 도구.", "en": "Monitoring tool for tracking AI API token usage.", "tech": "TypeScript" },
+    { "name": "SNU 빅데이터 시각화", "ko": "서울대 빅데이터 과정 데이터 시각화 실습.", "en": "Data visualization coursework from the SNU Big Data program.", "tech": "Python" },
+    { "name": "Data_statistic", "ko": "통계 분석 및 데이터 처리 연습 프로젝트.", "en": "Statistical analysis and data-processing practice project.", "tech": "Python" }
+  ],
+  "certs": [
+    { "ko": "바이오화학제품제조기사", "en": "Engineer, Biochemical Product Manufacturing", "date": "2026.06" },
+    { "ko": "한국사능력검정시험 1급", "en": "Korean History Proficiency Test, Level 1", "date": "2023.08" },
+    { "ko": "TOEIC 730 / Speaking IM3", "en": "TOEIC 730 / Speaking IM3", "date": "2026.03" },
+    { "ko": "자동차운전면허 1종보통", "en": "Driver's License (Type 1, Standard)", "date": "2015.07" }
+  ]
+}

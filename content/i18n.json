@@ -1,0 +1,55 @@
+{
+  "nav.cv": ["CV ↓", "CV ↓"],
+  "hero.name": ["이찬휘", "Chan Hwi Lee"],
+  "hero.role1": ["구조분자생물학 석사", "M.S. Structural Molecular Biology"],
+  "hero.role2": ["경북대학교", "Kyungpook National University"],
+  "hero.tagline": [
+    "단백질 구조 규명과 생화학적 기능 해석을 연구하며, 최근에는 데이터·AI 도구로 연구 역량을 확장하고 있습니다.",
+    "I study protein structure and biochemical function, and I'm currently extending that toward data and AI tooling."
+  ],
+  "edu.title": ["교육", "Education"],
+  "edu.snu.degree": ["빅데이터 AI 핀테크 전문가과정", "Big Data & AI Fintech Expert Program"],
+  "edu.snu.org": ["서울대학교", "Seoul National University"],
+  "edu.snu.tag": ["진행 중", "In progress"],
+  "edu.ms.degree": ["이학석사, 구조분자생물학 (미생물학과)", "M.S. in Structural Molecular Biology (Microbiology)"],
+  "edu.ms.org": ["경북대학교 일반대학원", "Kyungpook National University, Graduate School"],
+  "edu.ms.thesis": [
+    "\"Crystal structure analysis and biochemical characterization of 3-dehydroquinate dehydratase from Corynebacterium glutamicum\"",
+    "\"Crystal structure analysis and biochemical characterization of 3-dehydroquinate dehydratase from Corynebacterium glutamicum\""
+  ],
+  "edu.bs.degree": ["이학사, 생명공학전공 (화학공학 부전공)", "B.S. in Biotechnology (Minor: Chemical Engineering)"],
+  "edu.bs.org": ["경북대학교", "Kyungpook National University"],
+  "exp.title": ["경력", "Experience"],
+  "exp.tg.role": ["주임연구원, 효능연구팀", "Senior Researcher, Efficacy Research Team"],
+  "exp.tg.org": ["(주)티지바이오텍 기업부설연구소", "TG Biotech Corporate R&D Center"],
+  "exp.tg.detail": [
+    "동물세포 배양·효능평가(RAW264.7, C2C12, SW1353, L6), Western blot/ELISA/RT-qPCR/Zymography 수행, SERCA-Damulin 도킹 기반 구조 연구 지원, 중소벤처기업부 과제 행정 총괄",
+    "Cell culture & efficacy assays (RAW264.7, C2C12, SW1353, L6); Western blot, ELISA, RT-qPCR, zymography; docking-based structural support for SERCA–Damulin studies; administered SME R&D government grants"
+  ],
+  "exp.knu.role": ["학부연구생", "Undergraduate Research Assistant"],
+  "exp.knu.org": ["경북대학교 생명과학부", "Kyungpook National University, School of Life Sciences"],
+  "exp.knu.detail": [
+    "아미노산 신생합성, 카르복실산 생합성, PET 생분해 프로젝트 참여",
+    "Contributed to amino acid biosynthesis, carboxylic acid biosynthesis, and PET biodegradation projects"
+  ],
+  "research.title": ["대표 연구", "Featured Research"],
+  "research.name": [
+    "CgDHQD 구조 규명 — Corynebacterium glutamicum 3-dehydroquinate dehydratase",
+    "Structure of CgDHQD — 3-Dehydroquinate Dehydratase from Corynebacterium glutamicum"
+  ],
+  "research.sub": [
+    "시킴산 경로 핵심 효소의 결정 구조를 규명하고, 부위 특이적 변이 실험으로 활성 잔기의 기능을 해석했습니다.",
+    "Solved the crystal structure of a key shikimate-pathway enzyme and used site-directed mutagenesis to characterize catalytic residue function."
+  ],
+  "research.stat.citrate": ["Citrate complex", "Citrate complex"],
+  "research.stat.dhq": ["DHQ complex", "DHQ complex"],
+  "pub.title": ["논문", "Publications"],
+  "skills.title": ["기술 및 역량", "Skills"],
+  "projects.title": ["사이드 프로젝트", "Side Projects"],
+  "projects.note": ["+ 데이터 · 도구", "+ data & tooling"],
+  "certs.title": ["자격 및 어학", "Certifications & Languages"],
+  "footer.note": [
+    "© 2026 이찬휘 — 이 페이지는 실제 데이터를 기반으로 제작되었습니다",
+    "© 2026 Chan Hwi Lee — built from real resume and publication data"
+  ]
+}
