@@ -86,7 +86,7 @@ function renderProjects() {
     .map(
       (p) => `
       <div class="project-card">
-        <h3>${p.name}</h3>
+        <h3>${p.url ? `<a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>` : p.name}</h3>
         <p>${lang === "ko" ? p.ko : p.en}</p>
         <span class="project-tech">${p.tech}</span>
       </div>`
