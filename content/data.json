@@ -80,7 +80,7 @@
   "certs": [
     { "ko": "바이오화학제품제조기사", "en": "Engineer, Biochemical Product Manufacturing", "date": "2026.06" },
     { "ko": "한국사능력검정시험 1급", "en": "Korean History Proficiency Test, Level 1", "date": "2023.08" },
-    { "ko": "TOEIC 730 / Speaking IM3", "en": "TOEIC 730 / Speaking IM3", "date": "2026.03" },
+    { "ko": "Speaking IM3", "en": "Speaking IM3", "date": "2026.03" },
     { "ko": "자동차운전면허 1종보통", "en": "Driver's License (Type 1, Standard)", "date": "2015.07" }
   ]
 }
